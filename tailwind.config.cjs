@@ -12,14 +12,7 @@ module.exports = {
           to: "#3010ff",
           from: '#6473ff',
         },
-        card: {
-          bg: {
-            one: "#1b1b1b",
-            two: "#222",
-            three: "#1b1b1b",
-          }
-        }
-        ,
+
         options: {
           one: {
             to: "#149fff",
